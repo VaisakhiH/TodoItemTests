@@ -1,0 +1,32 @@
+Acceptance Criteria:
+
+1.Adding a new todo item
+  The input field should accept alphanumeric characters, special characters, and spaces.
+Pressing the "Enter" key should submit the input and add the todo item to the list.   
+The todo item should display the entered text.
+
+2.Editing todo item
+The text should be editable by double clicking on the todo item.
+
+3.Todo items display
+All- all todo items must be displayed upon clicking all.
+Active -Active todo items must be displayed upon clicking active.
+Completed- Completed  todo items must be displayed upon clicking Completed.
+
+4.Marking as completed
+Each todo item should have a checkbox to mark it as completed.
+
+5.Selecting all todos
+All the todo items must be checked as completed once the the check box is clicked.
+
+6.Deleting the todos
+Each todo item should have an option to delete it from the list.
+All the selected todo items must be deleted by clicking clear all. 
+
+7.Crossbrowser Compatability
+Testing should ensure compatibility and functionality across different browser versions.
+	
+
+
+
+ 
